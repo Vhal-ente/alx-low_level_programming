@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main - A C program that prints exactly and that piece of art is useful Dora Korpar
+* main - A C program that prints exactly and that piece of art is useful
 * Return: Always 1 (Success)
 */
 int main(void)
